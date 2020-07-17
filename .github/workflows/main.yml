@@ -1,7 +1,7 @@
 name: Waka Readme
 
-on:
-  push
+on: 
+  push:
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
