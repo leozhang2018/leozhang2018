@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi! I'm leozhang2018.</h2>
+<h3 align="center">👋 Hi! I'm leozhang2018.</h3>
 <p align="center">
   <a href="https://code.leozhang2018.me">Blog</a> •
   <a href="https://twitter.com/leozhang2018">Twitter</a> •
