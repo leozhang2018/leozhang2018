@@ -11,8 +11,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 31 mins    ████████████████████████▓   98.21 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 -------
