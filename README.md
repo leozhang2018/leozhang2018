@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       11 hrs 19 mins  ███████████████████▒░░░░░   77.97 %
-JavaScript   3 hrs           █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Vue.js       9 hrs 8 mins    ██████████████████▓░░░░░░   74.93 %
+JavaScript   2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
