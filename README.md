@@ -27,6 +27,4 @@ Technologies:
 
 ![](https://github-readme-stats.vercel.app/api?username=leozhang2018&theme=algolia&show_icons=true)
 
-
-[![leozhang2018 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leozhang2018)](https://github.com/leozhang2018)
 -------
