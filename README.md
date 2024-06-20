@@ -7,7 +7,7 @@ Social:
 
  [![](https://img.shields.io/badge/-leozhang2018-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/leozhang2018)](https://github.com/leozhang2018)
  [![](https://img.shields.io/badge/-leozhang2018-0084FF?style=flat&logo=Zhihu&logoColor=white) ](https://www.zhihu.com/people/leozhang2018)
- [![](https://img.shields.io/badge/-leozhang2018-1DA1F2?style=flat&logo=Twitter&logoColor=white) ](https://twitter.com/Leozhang2018)
+ [![](https://img.shields.io/badge/-leozhang2018-000000?style=flat&logo=X&logoColor=white) ](https://twitter.com/Leozhang2018)
  [![](https://img.shields.io/badge/-leozhanghere-E4405F?style=flat&logo=Instagram&logoColor=white) ](https://www.instagram.com/leozhanghere/)
  [![](https://img.shields.io/badge/-leozhang2018-F58025?style=flat&logo=Stack%20Overflow&logoColor=white) ](https://stackoverflow.com/users/4283571/leozhang2018)
  [![](https://img.shields.io/badge/-ChipHell-a90000?style=flat&logo=&logoColor=white) ](https://www.chiphell.com/space-uid-411144.html)
