@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm leozhang2018.
 
-[![](https://img.shields.io/badge/Member-of-Zadig-ff2968)](https://github.com/koderover)
+[![](https://img.shields.io/badge/Membe%20of-Zadig-ff2968)](https://github.com/koderover)
 
 Social:
 
