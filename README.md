@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm leozhang2018.
 
-[![](https://img.shields.io/badge/Membe%20of-Zadig-ff2968)](https://github.com/koderover)
+[![](https://img.shields.io/badge/Member%20of-Zadig-ff2968)](https://github.com/koderover)
 
 Social:
 
@@ -22,6 +22,8 @@ Technologies:
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=NGINX&logoColor=white)
+![](https://img.shields.io/badge/-DevOps-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=leozhang2018&theme=algolia&show_icons=true)
