@@ -10,7 +10,6 @@ Social:
  [![](https://img.shields.io/badge/-leozhanghere-E4405F?style=flat&logo=Instagram&logoColor=white) ](https://www.instagram.com/leozhanghere/)
  [![](https://img.shields.io/badge/-leozhang2018-F58025?style=flat&logo=Stack%20Overflow&logoColor=white) ](https://stackoverflow.com/users/4283571/leozhang2018)
  [![](https://img.shields.io/badge/-ChipHell-a90000?style=flat&logo=&logoColor=white) ](https://www.chiphell.com/space-uid-411144.html)
- ![](https://img.shields.io/badge/-leozhang2018-07C160?style=flat&logo=WeChat&logoColor=white)
 
 Technologies:
 
